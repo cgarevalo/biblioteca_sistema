@@ -1,0 +1,11 @@
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\Sistema de Gestión de Biblioteca\bin\Debug\Sistema de Gestión de Biblioteca.exe.config
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\Sistema de Gestión de Biblioteca\bin\Debug\Sistema de Gestión de Biblioteca.exe
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\Sistema de Gestión de Biblioteca\bin\Debug\Sistema de Gestión de Biblioteca.pdb
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\Sistema de Gestión de Biblioteca\bin\Debug\LogicaBiblioteca.dll
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\Sistema de Gestión de Biblioteca\bin\Debug\LogicaBiblioteca.pdb
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\Sistema de Gestión de Biblioteca\obj\Debug\Sistema de Gestión de Biblioteca.csproj.AssemblyReference.cache
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\Sistema de Gestión de Biblioteca\obj\Debug\Sistema de Gestión de Biblioteca.csproj.SuggestedBindingRedirects.cache
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\Sistema de Gestión de Biblioteca\obj\Debug\Sistema de Gestión de Biblioteca.csproj.CoreCompileInputs.cache
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\Sistema de Gestión de Biblioteca\obj\Debug\Sistema de Gestión de Biblioteca.csproj.CopyComplete
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\Sistema de Gestión de Biblioteca\obj\Debug\Sistema de Gestión de Biblioteca.exe
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\Sistema de Gestión de Biblioteca\obj\Debug\Sistema de Gestión de Biblioteca.pdb

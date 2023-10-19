@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema de Gestión de Biblioteca", "Sistema de Gestión de Biblioteca\Sistema de Gestión de Biblioteca.csproj", "{67023345-0350-4151-B3CA-E9D67BE46B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaBiblioteca", "LogicaBiblioteca\LogicaBiblioteca.csproj", "{72E5CBE5-DD25-4862-BF0B-E1769B070A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67023345-0350-4151-B3CA-E9D67BE46B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67023345-0350-4151-B3CA-E9D67BE46B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67023345-0350-4151-B3CA-E9D67BE46B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67023345-0350-4151-B3CA-E9D67BE46B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E5CBE5-DD25-4862-BF0B-E1769B070A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E5CBE5-DD25-4862-BF0B-E1769B070A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E5CBE5-DD25-4862-BF0B-E1769B070A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E5CBE5-DD25-4862-BF0B-E1769B070A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5DAACF5-FF27-4554-BDF2-7447105556CB}
+	EndGlobalSection
+EndGlobal

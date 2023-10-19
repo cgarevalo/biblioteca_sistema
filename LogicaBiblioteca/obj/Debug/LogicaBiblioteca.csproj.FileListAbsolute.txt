@@ -1,0 +1,6 @@
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\LogicaBiblioteca\bin\Debug\LogicaBiblioteca.dll
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\LogicaBiblioteca\bin\Debug\LogicaBiblioteca.pdb
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\LogicaBiblioteca\obj\Debug\LogicaBiblioteca.csproj.AssemblyReference.cache
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\LogicaBiblioteca\obj\Debug\LogicaBiblioteca.csproj.CoreCompileInputs.cache
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\LogicaBiblioteca\obj\Debug\LogicaBiblioteca.dll
+A:\Archivos\Cristian\Ejercicios de programación\Sistema de Gestión de Biblioteca\LogicaBiblioteca\obj\Debug\LogicaBiblioteca.pdb
